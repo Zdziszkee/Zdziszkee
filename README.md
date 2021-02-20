@@ -9,6 +9,7 @@ I'm 18 years old programmer from Poland. I love open source projects & contribut
 
 - Java
 - Kotlin
+
 **Editors/IDEs**: <br/>
 
 - IntellIJ
