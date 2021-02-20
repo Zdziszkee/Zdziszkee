@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Get in touch via Discord](https://badges.krynn.dev/discord/?id=299517710298251264)](https://github.com/Zdziszkee)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=zdziszkee@gmail.com)](https://github.com/Zdziszkee)
 
-<!--
-**Zdziszkee/Zdziszkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm [Zdziszkee](https://github.com/Zdziszkee)! 👋
+<br/>
 
-Here are some ideas to get you started:
+Welcome to my profile!<br/>
+I'm 18 years old programmer from Poland. I love open source projects & contributing to them. Mainly I'm developing my projects in Java/Kotlin, but sometimes I'm using other languages, dependant on need.<br/>
+**Languages**: <br/>
+- Java
+- Kotlin
+**Editors/IDEs**: <br/>
+- IntellIJ
+- Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Zdziszkee GitHub stats](https://github-readme-stats.vercel.app/api?username=Zdziszkee&show_icons=true&theme=gruvbox)](https://github.com/Zdziszkee)<br/>
+[![Zdziszkee's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zdziszkee&langs_count=8&theme=gruvbox)](https://github.com/Zdziszkee/repositories)
