@@ -15,5 +15,5 @@ I'm 18 years old programmer from Poland. I love open source projects & contribut
 - IntellIJ
 - Visual Studio Code
 
-[![Zdziszkee GitHub stats](https://github-readme-stats.vercel.app/api?username=Zdziszkee&show_icons=true&theme=gruvbox)](https://github.com/Zdziszkee)<br/>
-[![Zdziszkee's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zdziszkee&langs_count=8&theme=gruvbox)](https://github.com/Zdziszkee/repositories)
+[![Zdziszkee GitHub stats](https://github-readme-stats.vercel.app/api?username=Zdziszkee&show_icons=true&theme=radical)](https://github.com/Zdziszkee)<br/>
+[![Zdziszkee's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zdziszkee&langs_count=8&theme=radical)](https://github.com/Zdziszkee/repositories)
