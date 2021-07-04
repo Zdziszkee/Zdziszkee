@@ -4,7 +4,7 @@
 <br/>
 
 Welcome to my profile!<br/>
-I'm 18 years old programmer from Poland. I love open source projects & contributing to them. Mainly I'm developing my projects in Java/Kotlin, but sometimes I'm using other languages, dependant on need.<br/>
+I'm 19 years old programmer from Poland. I love open source projects & contributing to them. Mainly I'm developing my projects in Java/Kotlin, but sometimes I'm using other languages, dependant on need.<br/>
 **Languages**: <br/>
 
 - Java
